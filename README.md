@@ -1,5 +1,6 @@
 # ISC-S1
 Glosario
+
 1.Actuadores: Son dispositivos que convierten una señal eléctrica en movimiento, como los motores en robots o máquinas.
 
 2.APIS: Son herramientas que permiten que diferentes programas o aplicaciones se comuniquen entre sí y compartan información.
